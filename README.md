@@ -1,4 +1,4 @@
-Here’s your **README.md** in the requested format! 🚀  
+
 
 ---
 
@@ -89,10 +89,10 @@ This project uses a **synthetic e-commerce sales dataset**, including:
 
 ---
 
-## **🤝 Connect with Me**  
+## 🤝 Connect with Me
 💼 [LinkedIn](https://www.linkedin.com/in/nikita-gaondhare-9511242562/)  
 📧 [Email](mailto:gaondharenikita2506@gmail.com)  
-🌍 [GitHub](https://github.com/nikgavandhare)  
+🌍 [GitHub](https://github.com/nikgavandhare)
 
 ---
 
