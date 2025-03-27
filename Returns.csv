@@ -1,0 +1,51 @@
+return_id,order_id,product_id,return_reason,return_date
+1,158,5,Customer Changed Mind,2023-06-01
+2,272,9,Defective,2023-06-08
+3,228,16,Defective,2023-06-15
+4,135,2,Wrong Item,2023-06-22
+5,46,14,Defective,2023-06-29
+6,221,14,Defective,2023-07-06
+7,252,8,Wrong Item,2023-07-13
+8,232,17,Defective,2023-07-20
+9,125,19,Wrong Item,2023-07-27
+10,26,5,Defective,2023-08-03
+11,264,14,Customer Changed Mind,2023-08-10
+12,54,11,Defective,2023-08-17
+13,106,20,Wrong Item,2023-08-24
+14,35,15,Customer Changed Mind,2023-08-31
+15,181,18,Customer Changed Mind,2023-09-07
+16,255,14,Customer Changed Mind,2023-09-14
+17,277,6,Customer Changed Mind,2023-09-21
+18,165,1,Customer Changed Mind,2023-09-28
+19,155,9,Defective,2023-10-05
+20,133,13,Customer Changed Mind,2023-10-12
+21,108,13,Wrong Item,2023-10-19
+22,1,13,Customer Changed Mind,2023-10-26
+23,206,3,Customer Changed Mind,2023-11-02
+24,266,13,Defective,2023-11-09
+25,94,9,Defective,2023-11-16
+26,203,18,Wrong Item,2023-11-23
+27,225,4,Defective,2023-11-30
+28,295,14,Wrong Item,2023-12-07
+29,229,14,Defective,2023-12-14
+30,188,10,Defective,2023-12-21
+31,179,8,Wrong Item,2023-12-28
+32,178,3,Wrong Item,2024-01-04
+33,254,10,Wrong Item,2024-01-11
+34,74,3,Customer Changed Mind,2024-01-18
+35,286,13,Customer Changed Mind,2024-01-25
+36,169,16,Customer Changed Mind,2024-02-01
+37,80,11,Customer Changed Mind,2024-02-08
+38,111,10,Wrong Item,2024-02-15
+39,138,5,Customer Changed Mind,2024-02-22
+40,173,12,Wrong Item,2024-02-29
+41,156,19,Defective,2024-03-07
+42,280,13,Customer Changed Mind,2024-03-14
+43,228,4,Defective,2024-03-21
+44,87,14,Customer Changed Mind,2024-03-28
+45,102,9,Defective,2024-04-04
+46,195,9,Wrong Item,2024-04-11
+47,261,12,Customer Changed Mind,2024-04-18
+48,47,8,Wrong Item,2024-04-25
+49,107,12,Defective,2024-05-02
+50,252,20,Wrong Item,2024-05-09

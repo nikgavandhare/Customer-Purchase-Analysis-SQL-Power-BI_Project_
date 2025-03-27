@@ -1,0 +1,21 @@
+product_id,product_name,category,price,cost
+1,Product 1,Books,65,116
+2,Product 2,Fashion,211,101
+3,Product 3,Books,464,242
+4,Product 4,Electronics,245,184
+5,Product 5,Fashion,29,144
+6,Product 6,Fashion,379,304
+7,Product 7,Home,414,208
+8,Product 8,Home,185,122
+9,Product 9,Electronics,229,70
+10,Product 10,Electronics,286,232
+11,Product 11,Home,137,85
+12,Product 12,Sports,223,314
+13,Product 13,Fashion,12,216
+14,Product 14,Books,52,137
+15,Product 15,Books,56,392
+16,Product 16,Books,175,187
+17,Product 17,Electronics,232,165
+18,Product 18,Sports,301,179
+19,Product 19,Books,313,74
+20,Product 20,Books,21,163
